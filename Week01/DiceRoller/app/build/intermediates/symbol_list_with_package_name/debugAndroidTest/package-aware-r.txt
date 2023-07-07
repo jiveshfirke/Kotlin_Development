@@ -1,0 +1,3 @@
+com.dedsec.diceroller.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
